@@ -1,0 +1,308 @@
+[
+    {
+        "codeId": "409",
+        "codeNm": "서울",
+        "codeVal": "0001",
+        "codeVal1": "서울특별시",
+        "codeVal2": "eastLine",
+        "sortNum": 1,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "410",
+        "codeNm": "광명",
+        "codeVal": "0501",
+        "codeVal1": "경기도 광명시",
+        "codeVal2": "eastLine",
+        "sortNum": 2,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "4",
+        "codeNm": "수서",
+        "codeVal": "0551",
+        "codeVal1": "서울특별시",
+        "codeVal2": "everyLine",
+        "sortNum": 3,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "5",
+        "codeNm": "동탄",
+        "codeVal": "0552",
+        "codeVal1": "경기도 화성시",
+        "codeVal2": "everyLine",
+        "sortNum": 4,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "6",
+        "codeNm": "평택지제",
+        "codeVal": "0553",
+        "codeVal1": "경기도 평택시",
+        "codeVal2": "everyLine",
+        "sortNum": 5,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "7",
+        "codeNm": "천안아산",
+        "codeVal": "0502",
+        "codeVal1": "충청남도 아산시",
+        "codeVal2": "everyLine",
+        "sortNum": 6,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "8",
+        "codeNm": "오송",
+        "codeVal": "0297",
+        "codeVal1": "충청북도 청주시",
+        "codeVal2": "everyLine",
+        "sortNum": 7,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "9",
+        "codeNm": "대전",
+        "codeVal": "0010",
+        "codeVal1": "대전광역시",
+        "codeVal2": "eastLine",
+        "sortNum": 8,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "10",
+        "codeNm": "공주",
+        "codeVal": "0514",
+        "codeVal1": "충청남도 공주시",
+        "codeVal2": "southLine",
+        "sortNum": 9,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "11",
+        "codeNm": "김천(구미)",
+        "codeVal": "0507",
+        "codeVal1": "경상북도 김천시",
+        "codeVal2": "eastLine",
+        "sortNum": 10,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "12",
+        "codeNm": "동대구",
+        "codeVal": "0015",
+        "codeVal1": "대구광역시",
+        "codeVal2": "eastLine",
+        "sortNum": 11,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "13",
+        "codeNm": "경주",
+        "codeVal": "0508",
+        "codeVal1": "경상북도 경주시",
+        "codeVal2": "eastLine",
+        "sortNum": 12,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "14",
+        "codeNm": "울산(통도사)",
+        "codeVal": "0509",
+        "codeVal1": "울산광역시",
+        "codeVal2": "eastLine",
+        "sortNum": 13,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "15",
+        "codeNm": "부산",
+        "codeVal": "0020",
+        "codeVal1": "부산광역시",
+        "codeVal2": "eastLine",
+        "sortNum": 14,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "16",
+        "codeNm": "익산",
+        "codeVal": "0030",
+        "codeVal1": "전라북도 익산시",
+        "codeVal2": "southLine",
+        "sortNum": 15,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "17",
+        "codeNm": "정읍",
+        "codeVal": "0033",
+        "codeVal1": "전라북도 정읍시",
+        "codeVal2": "southLine",
+        "sortNum": 16,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "18",
+        "codeNm": "광주송정",
+        "codeVal": "0036",
+        "codeVal1": "광주광역시",
+        "codeVal2": "southLine",
+        "sortNum": 17,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "19",
+        "codeNm": "나주",
+        "codeVal": "0037",
+        "codeVal1": "전라남도 나주시",
+        "codeVal2": "southLine",
+        "sortNum": 18,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "20",
+        "codeNm": "목포",
+        "codeVal": "0041",
+        "codeVal1": "전라남도 목포시",
+        "codeVal2": "southLine",
+        "sortNum": 19,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "88",
+        "codeNm": "서대구",
+        "codeVal": "0506",
+        "codeVal1": "대구광역시",
+        "codeVal2": "eastLine",
+        "sortNum": 20,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "216",
+        "codeNm": "밀양",
+        "codeVal": "0017",
+        "codeVal1": "경상남도 밀양시",
+        "codeVal2": "gyeongjeonLine",
+        "sortNum": 21,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "217",
+        "codeNm": "전주",
+        "codeVal": "0045",
+        "codeVal1": "전라북도 전주시",
+        "codeVal2": "jeollaLine",
+        "sortNum": 22,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "218",
+        "codeNm": "남원",
+        "codeVal": "0048",
+        "codeVal1": "전라북도 남원시",
+        "codeVal2": "jeollaLine",
+        "sortNum": 23,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "219",
+        "codeNm": "곡성",
+        "codeVal": "0049",
+        "codeVal1": "전라남도 곡성군",
+        "codeVal2": "jeollaLine",
+        "sortNum": 24,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "220",
+        "codeNm": "구례구",
+        "codeVal": "0050",
+        "codeVal1": "전라남도 순천시",
+        "codeVal2": "jeollaLine",
+        "sortNum": 25,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "221",
+        "codeNm": "순천",
+        "codeVal": "0051",
+        "codeVal1": "전라남도 순천시",
+        "codeVal2": "jeollaLine",
+        "sortNum": 26,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "222",
+        "codeNm": "여천",
+        "codeVal": "0139",
+        "codeVal1": "전라남도 여수시",
+        "codeVal2": "jeollaLine",
+        "sortNum": 27,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "223",
+        "codeNm": "여수EXPO",
+        "codeVal": "0053",
+        "codeVal1": "전라남도 여수시",
+        "codeVal2": "jeollaLine",
+        "sortNum": 28,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "224",
+        "codeNm": "진영",
+        "codeVal": "0056",
+        "codeVal1": "경상남도 김해시",
+        "codeVal2": "gyeongjeonLine",
+        "sortNum": 29,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "225",
+        "codeNm": "창원중앙",
+        "codeVal": "0512",
+        "codeVal1": "경상남도 창원시",
+        "codeVal2": "gyeongjeonLine",
+        "sortNum": 30,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "226",
+        "codeNm": "창원",
+        "codeVal": "0057",
+        "codeVal1": "경상남도 창원시",
+        "codeVal2": "gyeongjeonLine",
+        "sortNum": 31,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "227",
+        "codeNm": "마산",
+        "codeVal": "0059",
+        "codeVal1": "경상남도 창원시",
+        "codeVal2": "gyeongjeonLine",
+        "sortNum": 32,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "228",
+        "codeNm": "진주",
+        "codeVal": "0063",
+        "codeVal1": "경상남도 진주시",
+        "codeVal2": "gyeongjeonLine",
+        "sortNum": 33,
+        "isUse": "Y"
+    },
+    {
+        "codeId": "229",
+        "codeNm": "포항",
+        "codeVal": "0515",
+        "codeVal1": "경상북도 포항시",
+        "codeVal2": "donghaeLine",
+        "sortNum": 34,
+        "isUse": "Y"
+    }
+]
